@@ -9,7 +9,7 @@
 <body>
 <h1>Crud Operation</h1>
 <h2>Add user</h2>
-<form action="adduser.jsp"></form>
+<form action="adduser.jsp">
 Name:<input type="text" name="name"required><br>
 Email:<input type="email" name="email"required><br>
 <input type="submit" value="add user">
